@@ -72,3 +72,13 @@ table {
 	padding-top:0px;
 	margin-top:0px
 }
+/* baris baru*/
+.content .row .col-12 .heding-1{
+	padding-bottom: 15px;
+}
+.content .row .col-12 .dropshadow{
+	box-shadow: 0px 0px 4px 3px  rgba(0,0,0,0.2);
+}
+.garis{
+	border:2px solid gray;
+}
